@@ -6801,5 +6801,22 @@
     "lastIndex": "-1",
     "donateUrl": "https://www.patreon.com/InCaseArt",
     "nsfw": true
+  },
+  {
+    "url": "https://www.gocomics.com/pibgorn/2002/03/11",
+    "title": "Pibgorn",
+    "imageUrl": "https://avatar.amuniversal.com/feature_avatars/ubadge_images/features/pib/mid_u-201701251611.png",
+    "imageSelector": ".item-comic-image img",
+    "imageIndex": "0",
+    "firstSelector": ".fa-backward",
+    "firstIndex": "0",
+    "prevSelector": ".fa-caret-left",
+    "prevIndex": "0",
+    "randomSelector": "a:contains(random)",
+    "randomIndex": "0",
+    "nextSelector": ".fa-caret-right",
+    "nextIndex": "0",
+    "lastSelector": ".fa-forward",
+    "lastIndex": "0"
   }
 ]
